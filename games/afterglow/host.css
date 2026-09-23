@@ -1,0 +1,22 @@
+@media (max-width: 520px) {
+  html,
+  body,
+  #root {
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+  }
+
+  #root {
+    max-width: none;
+  }
+
+  .rf-game-frame {
+    width: 100%;
+    max-width: none;
+    height: 100dvh;
+    min-height: 520px;
+    aspect-ratio: auto;
+    border-inline: 0;
+  }
+}
