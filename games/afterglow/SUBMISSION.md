@@ -35,7 +35,7 @@ The preview compresses intended 30-minute, four-hour and ten-hour expeditions in
 
 ## Rules, probabilities and rewards
 
-Artifact odds range from 55%/70% for Gen 1 short-or-medium/long expeditions to 15%/30% for Gen 6+. A Lucky Charm adds five percentage points, capped at 80%. The remaining outcomes are humorous Rugged Relics or empty bags and do not advance the collection.
+Artifact odds range from 55%/70% for Gen 1 short-or-medium/long expeditions to 15%/30% for Gen 6+. A Lucky Charm adds five percentage points, capped at 80%. Failed artifact rolls return humorous Rugged Relics, which do not advance the collection.
 
 Each expedition costs one simulated RF permit. A simulated one-trip boost costs 0.25 RF. Every completed return awards 0.40 simulated RF; artifact rewards range from 0.10 to 4 simulated RF. Collection milestones award 1, 3 and 8 simulated RF, with a simulated Decoder Key for completing the collection. Twenty percent of permit spending is shown as a staged community-jackpot contribution.
 
