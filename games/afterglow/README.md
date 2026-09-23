@@ -59,10 +59,12 @@ Open the preview in a browser with an EIP-1193 wallet holding a hardwired Genera
 
 ## Run
 
-This repository contains the Search Party game module for FriendSDK v0.1.2. Clone FriendSDK, then copy this repository's `games/afterglow` directory into the same path in the SDK checkout.
+This repository contains the Search Party game module for FriendSDK v0.1.2. Clone both repositories, then copy the game directory into the SDK checkout.
 
 ```sh
 git clone https://github.com/spokesz/friendsdk.git
+git clone https://github.com/tjc345/rare-friends-search-party.git
+cp -R rare-friends-search-party/games/afterglow friendsdk/games/afterglow
 cd friendsdk
 npm ci
 npm run dev:game -- games/afterglow
