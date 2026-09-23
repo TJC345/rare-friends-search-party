@@ -12,8 +12,10 @@
 ## Run locally
 
 ```sh
-git clone <public-repository-url>
-cd <repository-directory>
+git clone https://github.com/spokesz/friendsdk.git
+git clone https://github.com/tjc345/rare-friends-search-party.git
+cp -R rare-friends-search-party/games/afterglow friendsdk/games/afterglow
+cd friendsdk
 npm ci
 npm run dev:game -- games/afterglow
 ```
