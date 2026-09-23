@@ -1,0 +1,14 @@
+{
+  "name": "Rare Friends: Search Party",
+  "consumable": "Search Permit",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Gas Fee Fossil", "chanceBps": 3000, "reward": "250000000000000000" },
+    { "name": "Broken Bridge Receipt", "chanceBps": 2500, "reward": "500000000000000000" },
+    { "name": "Unclaimed Airdrop", "chanceBps": 2000, "reward": "750000000000000000" },
+    { "name": "Rugged Carpet", "chanceBps": 1400, "reward": "1000000000000000000" },
+    { "name": "Genesis Glitch", "chanceBps": 800, "reward": "2000000000000000000" },
+    { "name": "Suspicious Whitepaper", "chanceBps": 250, "reward": "5000000000000000000" },
+    { "name": "Satoshi's Missing Sock", "chanceBps": 50, "reward": "10000000000000000000" }
+  ]
+}
